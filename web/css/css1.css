@@ -1,0 +1,65 @@
+.indexBody{
+    background-image: url("../image/wuhanchangjiang.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.patientBody{
+    background-image: url("../image/ocean.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.doctorBody{
+    background-image: url("../image/loudi.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.mainButton {
+    border-radius: 15px;
+    background: rgb(154, 236, 217);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    color: rgb(55, 54, 53);
+}
+
+.operateButton{
+    border-radius: 5px;
+    background: rgb(45, 61, 75);
+    width: 75px;
+    height: 25px;
+    text-align: center;
+    border: none;
+    color: rgb(205, 234, 231);
+}
+
+.text{
+    width: 200px;
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li{
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #658a84;
+}
